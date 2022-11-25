@@ -1,0 +1,1 @@
+robocopy "C:\abc1" "C:\abc2" /e
